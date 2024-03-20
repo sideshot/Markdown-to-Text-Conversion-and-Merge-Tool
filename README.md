@@ -1,4 +1,3 @@
-Here's the `README.md` content for your script:
 
 # Documentation Merge Script
 
@@ -46,5 +45,4 @@ To execute the script, navigate to the directory where the script is located and
 
 This script is provided "as is", without warranty of any kind. The user assumes all risks associated with its use.
 
-Make sure to replace `md-convert-to-txt.sh` with the actual filename of your script. This `README.md` explains the functionality, usage, and risks associated with the script.
 
